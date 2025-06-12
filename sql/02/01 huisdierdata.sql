@@ -9,3 +9,5 @@ VALUES
 (NULL, 'gerard', 'aapfan7', 'ezel', '2', '2024-02-18'),
 (NULL, 'nick', 'sam', 'paard', '2', '2024-02-03'),
 (NULL, 'paul', 'autofan22', 'vogel', '1', '2024-02-27');
+
+
